@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncExampleWPF", "AsyncExampleWPF\AsyncExampleWPF.csproj", "{7A899357-D59C-4E82-8FC1-9805CC039FCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueResults", "QueueResults\QueueResults.csproj", "{F25A5E81-BED3-40F8-B7E2-68885A71974C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7A899357-D59C-4E82-8FC1-9805CC039FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A899357-D59C-4E82-8FC1-9805CC039FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A899357-D59C-4E82-8FC1-9805CC039FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25A5E81-BED3-40F8-B7E2-68885A71974C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25A5E81-BED3-40F8-B7E2-68885A71974C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25A5E81-BED3-40F8-B7E2-68885A71974C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25A5E81-BED3-40F8-B7E2-68885A71974C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
